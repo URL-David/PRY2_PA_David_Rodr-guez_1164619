@@ -1,0 +1,20 @@
+1
+1
+0
+0
+0
+0
+1
+1
+100
+141
+10
+1
+0
+0
+10
+0
+0
+
+--> Se ha ingresado:10 en la Bahía con ID: A1 Con material del tipo: 1 ingresado el:1/1/1999 por la persona: a Codigo de almacenaje: 141<--
+
